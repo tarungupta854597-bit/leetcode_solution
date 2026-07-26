@@ -25,4 +25,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [2119-a-number-after-a-double-reversal](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2119-a-number-after-a-double-reversal) |
 <!---LeetCode Topics End-->
