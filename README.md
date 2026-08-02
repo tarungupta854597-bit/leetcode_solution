@@ -28,6 +28,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0645-set-mismatch) |
+| [0877-stone-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0877-stone-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0877-stone-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2119-a-number-after-a-double-reversal) |
 ## Hash Table
 |  |
@@ -54,4 +56,12 @@
 | ------- |
 | [0268-missing-number](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0645-set-mismatch) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
