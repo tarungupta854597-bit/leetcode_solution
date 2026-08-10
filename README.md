@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
@@ -64,4 +66,12 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0877-stone-game) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
