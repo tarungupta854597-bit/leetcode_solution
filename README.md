@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0268-missing-number](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0905-sort-array-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0905-sort-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
