@@ -36,6 +36,7 @@
 | [0877-stone-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0922-sort-array-by-parity-ii) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Bit Manipulation
 |  |
 | ------- |
