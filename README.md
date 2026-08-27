@@ -46,6 +46,7 @@
 | ------- |
 | [0136-single-number](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0645-set-mismatch) |
 ## Math
@@ -54,6 +55,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0877-stone-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2119-a-number-after-a-double-reversal) |
 ## Hash Table
@@ -98,4 +100,5 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
