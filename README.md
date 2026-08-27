@@ -53,6 +53,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0326-power-of-three) |
 | [0877-stone-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0877-stone-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2119-a-number-after-a-double-reversal) |
 ## Hash Table
@@ -93,4 +94,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
