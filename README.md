@@ -20,6 +20,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0709-to-lower-case) |
+| [0806-number-of-lines-to-write-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0806-number-of-lines-to-write-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -35,6 +36,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0645-set-mismatch) |
+| [0806-number-of-lines-to-write-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0806-number-of-lines-to-write-string) |
 | [0877-stone-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0922-sort-array-by-parity-ii) |
