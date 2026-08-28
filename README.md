@@ -20,6 +20,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0771-jewels-and-stones) |
 | [0806-number-of-lines-to-write-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0806-number-of-lines-to-write-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
@@ -66,6 +67,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0771-jewels-and-stones) |
 ## Binary Search
 |  |
 | ------- |
