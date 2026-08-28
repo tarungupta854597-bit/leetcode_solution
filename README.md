@@ -57,6 +57,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0877-stone-game) |
@@ -91,6 +92,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0877-stone-game) |
 ## Queue
 |  |
@@ -109,4 +111,20 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0680-valid-palindrome-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
