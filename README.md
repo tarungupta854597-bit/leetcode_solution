@@ -20,6 +20,7 @@
 | [0242-valid-anagram](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0771-jewels-and-stones) |
@@ -60,6 +61,7 @@
 | [0292-nim-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0877-stone-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2119-a-number-after-a-double-reversal) |
 ## Hash Table
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0292-nim-game) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
