@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0905-sort-array-by-parity) |
@@ -40,6 +41,7 @@
 | [0136-single-number](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0645-set-mismatch) |
 | [0806-number-of-lines-to-write-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0806-number-of-lines-to-write-string) |
 | [0877-stone-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0877-stone-game) |
@@ -70,6 +72,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0645-set-mismatch) |
@@ -78,12 +81,14 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0905-sort-array-by-parity) |
