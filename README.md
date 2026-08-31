@@ -47,6 +47,7 @@
 | [0877-stone-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0922-sort-array-by-parity-ii) |
+| [1122-relative-sort-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1122-relative-sort-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Bit Manipulation
 |  |
@@ -77,6 +78,7 @@
 | [0389-find-the-difference](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0771-jewels-and-stones) |
+| [1122-relative-sort-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1122-relative-sort-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | [0645-set-mismatch](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0922-sort-array-by-parity-ii) |
+| [1122-relative-sort-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1122-relative-sort-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,4 +142,16 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0412-fizz-buzz) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
