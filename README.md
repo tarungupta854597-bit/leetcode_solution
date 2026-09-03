@@ -53,6 +53,7 @@
 | [1122-relative-sort-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1122-relative-sort-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [0877-stone-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0877-stone-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2119-a-number-after-a-double-reversal) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
