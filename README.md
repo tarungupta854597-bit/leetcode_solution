@@ -28,6 +28,7 @@
 | [0771-jewels-and-stones](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0771-jewels-and-stones) |
 | [0806-number-of-lines-to-write-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0806-number-of-lines-to-write-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1436-destination-city](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1436-destination-city) |
 ## Stack
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1122-relative-sort-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1436-destination-city](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1436-destination-city) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3903-smallest-stable-index-i) |
@@ -88,6 +90,7 @@
 | [0645-set-mismatch](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0771-jewels-and-stones) |
 | [1122-relative-sort-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1122-relative-sort-array) |
+| [1436-destination-city](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1436-destination-city) |
 ## Binary Search
 |  |
 | ------- |
