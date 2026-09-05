@@ -49,6 +49,7 @@
 | [0682-baseball-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0682-baseball-game) |
 | [0806-number-of-lines-to-write-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0806-number-of-lines-to-write-string) |
 | [0877-stone-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
