@@ -54,6 +54,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1122-relative-sort-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1436-destination-city) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
@@ -94,6 +95,7 @@
 | [0771-jewels-and-stones](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1122-relative-sort-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1436-destination-city) |
 ## Binary Search
 |  |
@@ -129,6 +131,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Recursion
 |  |
 | ------- |
