@@ -13,6 +13,6 @@ public:
                 result+=address[i];
             }
         }
-        return result;;
+        return result;
     }
 };
