@@ -32,6 +32,7 @@
 | [1108-defanging-an-ip-address](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1436-destination-city](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1436-destination-city) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Stack
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1436-destination-city) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3876-construct-uniform-parity-array-ii) |
