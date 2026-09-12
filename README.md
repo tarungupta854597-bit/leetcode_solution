@@ -43,6 +43,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -70,6 +71,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0342-power-of-four) |
@@ -210,4 +212,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0100-same-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
