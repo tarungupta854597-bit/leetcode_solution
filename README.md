@@ -37,6 +37,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2678-number-of-senior-citizens](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2678-number-of-senior-citizens) |
 ## Stack
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2678-number-of-senior-citizens](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2678-number-of-senior-citizens) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3903-smallest-stable-index-i) |
