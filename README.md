@@ -96,6 +96,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0292-nim-game) |
@@ -145,6 +146,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -267,4 +269,8 @@
 | [0450-delete-node-in-a-bst](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0701-insert-into-a-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
