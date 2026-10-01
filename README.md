@@ -80,6 +80,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2678-number-of-senior-citizens](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2678-number-of-senior-citizens) |
+| [3046-split-the-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3046-split-the-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3903-smallest-stable-index-i) |
@@ -126,6 +127,7 @@
 | [1436-destination-city](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1436-destination-city) |
 | [1748-sum-of-unique-elements](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1748-sum-of-unique-elements) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3046-split-the-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3046-split-the-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1748-sum-of-unique-elements) |
+| [3046-split-the-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3046-split-the-array) |
 ## Recursion
 |  |
 | ------- |
