@@ -55,6 +55,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0078-subsets](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0136-single-number) |
@@ -131,6 +132,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
