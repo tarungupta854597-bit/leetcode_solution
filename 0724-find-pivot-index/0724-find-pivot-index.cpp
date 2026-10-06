@@ -1,6 +1,10 @@
 class Solution {
 public:
     int pivotIndex(vector<int>& nums) {
+    // the approch i have used to solve these problem is prefix sum and suffix sum as we know that if there
+    // exist an point where the left sum and right sum are equal then we will return that index or we will return -1;
+    // the time complexity is : o(N);
+    // space complexity is : o(N);
      int leftsum[nums.size()];
      int rightsum[nums.size()];
      int a=0;
