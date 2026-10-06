@@ -37,6 +37,7 @@
 | [0771-jewels-and-stones](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0771-jewels-and-stones) |
 | [0806-number-of-lines-to-write-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0806-number-of-lines-to-write-string) |
 | [0856-score-of-parentheses](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -55,6 +56,7 @@
 | [0155-min-stack](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Array
 |  |
@@ -184,6 +186,7 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Brainteaser
 |  |
@@ -312,4 +315,5 @@
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
