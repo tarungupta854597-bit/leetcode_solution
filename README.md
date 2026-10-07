@@ -4,6 +4,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -181,6 +182,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0342-power-of-four) |
 ## Greedy
