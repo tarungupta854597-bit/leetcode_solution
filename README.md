@@ -96,6 +96,7 @@
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2678-number-of-senior-citizens](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2678-number-of-senior-citizens) |
 | [3046-split-the-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3046-split-the-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3903-smallest-stable-index-i) |
@@ -164,6 +165,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -198,6 +200,7 @@
 | [0680-valid-palindrome-ii](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1221-split-a-string-in-balanced-strings) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Brainteaser
 |  |
 | ------- |
