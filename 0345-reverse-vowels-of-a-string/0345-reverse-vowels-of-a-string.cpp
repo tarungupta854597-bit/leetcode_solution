@@ -1,4 +1,4 @@
-bool vowel(char a)
+inline bool vowel(char a)
 {
     if(a=='a' || a=='e' || a=='i' || a=='o' || a=='u')
     {
