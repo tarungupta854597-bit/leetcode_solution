@@ -156,6 +156,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0374-guess-number-higher-or-lower) |
 ## Sorting
 |  |
 | ------- |
@@ -347,4 +348,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
