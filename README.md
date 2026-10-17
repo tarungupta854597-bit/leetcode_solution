@@ -37,6 +37,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0412-fizz-buzz) |
+| [0451-sort-characters-by-frequency](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0709-to-lower-case) |
@@ -141,6 +142,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -167,6 +169,7 @@
 | [0268-missing-number](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0922-sort-array-by-parity-ii) |
@@ -191,6 +194,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0451-sort-characters-by-frequency) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1748-sum-of-unique-elements) |
@@ -315,6 +319,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String Matching
 |  |
@@ -354,4 +359,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0374-guess-number-higher-or-lower) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
