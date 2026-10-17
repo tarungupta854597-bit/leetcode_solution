@@ -7,6 +7,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [0342-power-of-four](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0877-stone-game) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2119-a-number-after-a-double-reversal](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2119-a-number-after-a-double-reversal) |
 | [3870-count-commas-in-range](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3871-count-commas-in-range-ii) |
