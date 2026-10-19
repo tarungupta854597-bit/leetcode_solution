@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0151-reverse-words-in-a-string) |
@@ -179,6 +180,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0877-stone-game) |
 ## Game Theory
@@ -303,6 +305,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0078-subsets) |
 ## Design
 |  |
@@ -343,6 +346,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1021-remove-outermost-parentheses) |
