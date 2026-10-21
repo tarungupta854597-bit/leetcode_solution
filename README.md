@@ -38,6 +38,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0680-valid-palindrome-ii) |
