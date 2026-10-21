@@ -56,6 +56,7 @@
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2678-number-of-senior-citizens](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2678-number-of-senior-citizens) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
