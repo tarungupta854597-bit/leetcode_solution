@@ -52,6 +52,7 @@
 | [1108-defanging-an-ip-address](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1436-destination-city](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1436-destination-city) |
+| [1446-consecutive-characters](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1446-consecutive-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
