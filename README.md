@@ -118,6 +118,7 @@
 | [0268-missing-number](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0397-integer-replacement) |
 | [0645-set-mismatch](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0645-set-mismatch) |
 ## Math
 |  |
@@ -189,6 +190,7 @@
 | [0022-generate-parentheses](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0096-unique-binary-search-trees) |
+| [0397-integer-replacement](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0397-integer-replacement) |
 | [0877-stone-game](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -217,6 +219,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0397-integer-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -332,6 +335,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0397-integer-replacement) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
