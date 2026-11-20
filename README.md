@@ -34,6 +34,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
@@ -345,6 +347,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0208-implement-trie-prefix-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -406,4 +409,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0451-sort-characters-by-frequency) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
