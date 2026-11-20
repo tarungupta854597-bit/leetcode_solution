@@ -106,6 +106,7 @@
 | [1748-sum-of-unique-elements](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1748-sum-of-unique-elements) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2678-number-of-senior-citizens](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2678-number-of-senior-citizens) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -195,6 +196,7 @@
 | [1122-relative-sort-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1122-relative-sort-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
@@ -238,6 +240,7 @@
 | [0680-valid-palindrome-ii](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Brainteaser
 |  |
