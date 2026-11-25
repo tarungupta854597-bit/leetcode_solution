@@ -59,6 +59,7 @@
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2678-number-of-senior-citizens](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2678-number-of-senior-citizens) |
+| [2716-minimize-string-length](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2716-minimize-string-length) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
@@ -167,6 +168,7 @@
 | [1436-destination-city](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1436-destination-city) |
 | [1748-sum-of-unique-elements](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/1748-sum-of-unique-elements) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2716-minimize-string-length](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2716-minimize-string-length) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/tarungupta854597-bit/leetcode_solution/tree/master/3046-split-the-array) |
